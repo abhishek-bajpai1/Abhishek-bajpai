@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek-baj</h1>
-<h3 align="center">I computer Science. from Sathyabama University. I passionte to love code  and  create  different web applications</h3>
+<h3 align="center">I computer Science. from Sathyabama University. I passionte to love code  and  create  different web applications & android application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-bajpai" /> </p>
 
